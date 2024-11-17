@@ -27,12 +27,12 @@
     &quot;assignee&quot;: &quot;rohitkumar-dev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rohitkumar-dev/movies-recommendation-system.git&quot;,
-    &quot;accountId&quot;: &quot;7e890dc7-952a-436b-9d85-bcd6c5519105&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rohitkumar-dev/movies_recommendation.git",
+    "accountId": "7e890dc7-952a-436b-9d85-bcd6c5519105"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app.py" root0="FORCE_HIGHLIGHTING" />
   </component>
